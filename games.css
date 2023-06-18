@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+background-image: url(images.jfif);
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  list-style-type: square;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+
+li p {
+  margin: 0;
+}
+h1{
+   float: right;
+}
+ul{
+  font-size: 24px;
+color: forestgreen;
+scroll-margin-inline-start: 100px;
+}
+ul li::marker{
+  color: darkred;
+}
+li {
+  padding-left: 10px;
+}
+ol{
+  font-size: 24px;
+color: darkred;
+scroll-margin-inline-start: 100px;
+}
+ol li::marker{
+  color: darkred;
+}
+li {
+  padding-left: 10px;
+}
+

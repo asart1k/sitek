@@ -1,0 +1,11 @@
+ul{
+	font-size: 24px;
+color: forestgreen;
+scroll-margin-inline-start: 100px;
+}
+ul li::marker{
+	color: darkred;
+}
+li {
+	padding-left: 10px;
+}

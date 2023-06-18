@@ -1,0 +1,56 @@
+body{
+	background-color: sandybrown;
+}
+p{
+	font-size: 50px;
+color: darkblue;
+}
+.fs2{
+	font-weight: 800;
+}
+.fs3{
+	font-style: italic;
+}
+.fs4{
+	 font-family: math;
+}
+.fs5{
+	 font-family: fantasy;
+  text-transform: lowercase;
+letter-spacing: 5px;
+}
+.fs1{
+	text-transform: capitalize;
+}
+.fs6{
+	text-decoration: underline;
+  text-underline-position: under;
+text-decoration-color: skyblue;
+}
+.fs7{
+	text-decoration: underline;
+  text-underline-position: under;
+text-decoration-color: green;
+text-decoration-style: dotted;
+text-decoration-line: underline overline;
+}
+.fs8{
+	text-shadow: 2px -2px green;
+}
+.fs9{
+	 text-shadow: 0 0 10px green;
+}
+.fs10{
+	font-size: 75px;
+text-shadow: 2px -2px red, 4 px -4px black;
+}
+.fs1{
+	font-size: 2cm;
+font-weight: 700;
+}
+.fl{
+	font-size: 2em;
+font-weight: 700;
+font-family: 'Rubik Gemstones', cursive;
+text-shadow: 5px -5px green;
+}
